@@ -7,6 +7,10 @@
 170.39.49.80/28,US,US-MA,Concord,,
 2602:f50c::/48,,,,
 2602:f50c:210::/44,CA,CA-QC,Montreal,H3E1T9
+2602:f50c:211::/44,CA,CA-QC,Montreal,H3E1T9
+2602:f50c:212::/44,CA,CA-QC,Montreal,H3E1T9
+2602:f50c:213::/44,CA,CA-QC,Montreal,H3E1T9
+2602:f50c:214::/44,CA,CA-QC,Montreal,H3E1T9
 2602:fab8::/36,,,,
 2a07:54c1:8c00::/48,,,,
 2a07:54c1:8c20::/48,US,,,
