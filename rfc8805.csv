@@ -4,7 +4,7 @@
 # prefix,country_code,region_code,city,postal
 44.30.29.0/24,CA,CA-QC,Montreal,H3E1T9
 170.39.49.0/24,CA,CA-QC,Montreal,H3E1T9
-170.39.49.80/28,US,US-MA,Concord,,
+170.39.49.80/32,US,US-MA,Concord,,
 2602:f50c::/48,,,,
 2602:f50c:210::/44,CA,CA-QC,Montreal,H3E1T9
 2602:f50c:210::/48,CA,CA-QC,Montreal,H3E1T9
@@ -19,6 +19,8 @@
 2602:f50c:230::/44,US,US-CA,Fremont,94539
 2602:f50c:230::/48,US,US-CA,Fremont,94539
 2602:f50c:231::/48,US,US-CA,Fremont,94539
+2602:f50c:410::/48,BR,BR-SP,Sao Paulo,06543
+2602:f50c:411::/48,BR,BR-SP,Sao Paulo,06543
 2602:f50c:610::/44,NL,NL-NH,Amsterdam,1098XG
 2602:f50c:610::/48,NL,NL-NH,Amsterdam,1098XG
 2602:f50c:611::/48,NL,NL-NH,Amsterdam,1098XG
@@ -31,6 +33,10 @@
 2602:f50c:640::/44,SE,SE-AB,Stockholm,16440
 2602:f50c:640::/48,SE,SE-AB,Stockholm,16440
 2602:f50c:641::/48,SE,SE-AB,Stockholm,16440
+2602:f50c:810::/48,AU,AU-NSW,Newcastle,2304
+2602:f50c:811::/48,AU,AU-NSW,Newcastle,2304
+2602:f50c:820::/48,AU,AU-NSW,Sydney,2015
+2602:f50c:821::/48,AU,AU-NSW,Sydney,2015
 2602:fab8::/36,,,,
 2a07:54c1:8c00::/48,,,,
 2a07:54c1:8c20::/48,US,,,
